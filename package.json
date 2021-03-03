@@ -1,0 +1,13 @@
+{
+  "name": "w3c_npm_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@dyne/zencode-chain": "^1.2.0",
+    "zenroom": "^2.2.0-0981aaa"
+  }
+}
