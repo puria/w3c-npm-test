@@ -1,7 +1,9 @@
 # Get started
 
-`yarn`
-`yarn start`
+```
+yarn
+yarn start
+```
 
 
 ## Result
